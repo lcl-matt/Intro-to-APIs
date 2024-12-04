@@ -4,22 +4,22 @@
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "1",
-      "name": "Camera",
-      "description": "Item for taking photographs"
+      "name": "Settlers of Catan",
+      "description": "Resource collection board game"
     },
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "2",
-      "name": "Binoculars",
-      "description": "Item for bird watching and outdoor exploration"
+      "name": "Cards Against Humanity",
+      "description": "Card-based board game"
     },
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "3",
-      "name": "Board Game",
-      "description": "Item for family entertainment and bonding"
+      "name": "7 Wonders",
+      "description": "Board game with card drafting"
     }
   ],
   "users": [
